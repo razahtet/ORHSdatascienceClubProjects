@@ -1,2 +1,2 @@
 * ideas
-  + 
+  + a program that does voting for some random question by asking random people, then making statistics information on it
